@@ -13,5 +13,5 @@ var server = [
     "ca-037.totallyacdn.com",
     "ca-west-018.totallyacdn.com",
     "ca-west-015.totallyacdn.com",
-    "ca-west-007.totallyacdn.com758567"
+    "ca-west-007.totallyacdn.com"
 ];
